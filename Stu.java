@@ -6,6 +6,7 @@ public class Stu {
     private Integer age;
 
     private String password;
+    private String sex;
 
     public Integer getId() {
         return id;
