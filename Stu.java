@@ -5,6 +5,8 @@ public class Stu {
     private String name;
     private Integer age;
 
+    private String password;
+
     public Integer getId() {
         return id;
     }
